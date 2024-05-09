@@ -21,13 +21,6 @@ import net.nikorloss.tutorialmod.item.ModItems;
 
 import java.util.function.Supplier;
 
-/**
- * Some block models provided by _fungus.
- *
- * @author _fungus (<a href="https://www.planetminecraft.com/member/_fungus/">Planet Minecraft _fungus's account</a>)
- *
- */
-
 public class ModBlocks {
     public static final DeferredRegister<Block> BLOCKS =
             DeferredRegister.create(ForgeRegistries.BLOCKS, TutorialMod.MOD_ID);
